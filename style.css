@@ -91,3 +91,10 @@ img {
     text-align: center;
     padding: 3em 3em;
 }
+
+/* Styling for the links section */
+.links{
+    background-color: rgb(63, 83, 170);
+    color: white;
+    padding: 1em 1em
+}
