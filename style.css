@@ -82,12 +82,6 @@ img {
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 
-.iframe-ajust{
-    position: relative;
-    width: 1600px;
-    height: 900px;
-}
-
 /* Styling for the topic card titles */
 .topic-card-text{
     font-size: 1.75em;
