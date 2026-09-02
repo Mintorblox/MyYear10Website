@@ -15,6 +15,18 @@ img {
     width: 100%;
 }
 
+/* Makes Pixelated Images Look Crisp */
+img.pixel-art {
+  
+  /* Modern browser standards */
+  image-rendering: pixelated;
+  
+  /* Fallbacks for older browser versions */
+  image-rendering: crisp-edges;
+  image-rendering: -moz-crisp-edges;
+}
+
+
 .page-link-box {
     background-color: rgb(26, 35, 75);
     padding: 1em 1em;
