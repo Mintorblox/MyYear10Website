@@ -70,6 +70,9 @@ img.pixel-art {
     font-size: 2.0em;
     padding: 0.1em 3em;
     background-color: rgb(128, 141, 198);
+
+    /* Ultra Font Styling */
+    font-family: "Ultra", serif;
 }
 
 /* Three column grid with a nice big gap */
@@ -125,6 +128,7 @@ img.pixel-art {
 .topic-card-text{
     font-size: 1.75em;
     margin-bottom: 0.5em;
+    
     /* center align text */
     text-align: center;
 }
@@ -153,4 +157,48 @@ img.pixel-art {
     background-color: rgb(63, 83, 170);
     color: white;
     padding: 1em 1em;
+}
+
+/* Ultra Font Styling */
+.ultra-regular {
+  font-family: "Ultra", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Kedebideri Font Styling */
+.kedebideri-regular {
+  font-family: "Kedebideri", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.kedebideri-medium {
+  font-family: "Kedebideri", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.kedebideri-semibold {
+  font-family: "Kedebideri", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.kedebideri-bold {
+  font-family: "Kedebideri", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.kedebideri-extrabold {
+  font-family: "Kedebideri", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.kedebideri-black {
+  font-family: "Kedebideri", sans-serif;
+  font-weight: 900;
+  font-style: normal;
 }
